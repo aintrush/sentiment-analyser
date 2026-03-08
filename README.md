@@ -127,28 +127,28 @@ Buy & Hold (Benchmark)        14.56%        7.28%         12.45%        0.61    
 **Technical Analysis Dashboard:**
 ![NIFTY 50 Technical Analysis](nifty_50_analysis.png)
 
-**Equity Curves (`equity_curves.png`):**
+**Equity Curves :**
 ![Strategy Equity Curves](equity_curves.png)
 - Shows portfolio value over time for all strategies
 - Combined Strategy (blue) typically outperforms individual strategies
 - Buy & Hold (black dashed) provides benchmark comparison
 - Y-axis shows portfolio growth from ₹100,000 initial capital
 
-**Drawdown Analysis (`drawdown_analysis.png`):**
+**Drawdown Analysis :**
 ![Drawdown Analysis](drawdown_analysis.png)
 - Peak-to-trough declines for each strategy
 - Maximum drawdown periods highlighted
 - Risk assessment showing worst-case scenarios
 - Combined Strategy shows most consistent performance
 
-**Monthly Returns Heatmap (`monthly_returns_heatmap.png`):**
+**Monthly Returns Heatmap :**
 ![Monthly Returns Heatmap](monthly_returns_heatmap.png)
 - Color-coded monthly performance (green=positive, red=negative)
 - Best performing strategy typically shows more green cells
 - Seasonal patterns visible in monthly clustering
 - Year-over-year comparison across bottom axis
 
-**CSV Results (`backtest_results.csv`):**
+**CSV Results :**
 - Detailed performance metrics for each strategy
 - Trade-by-trade analysis with P&L calculations
 - Risk-adjusted performance measures
