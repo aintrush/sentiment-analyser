@@ -1,0 +1,11 @@
+# Algorithmic Market Sentiment Analyser Dependencies
+# Core data handling and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Financial data fetching
+yfinance>=0.2.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
